@@ -1,5 +1,5 @@
 # meta-learning-CODEBRIM
-**Open-source code for our CVPR19 paper "Meta-learning Convolutional Neural Architectures for Multi-target Concrete Defect Classification with the COncrete DEfect BRidge IMage Dataset".**
+**Open-source code for our CVPR19 paper "Meta-learning Convolutional Neural Architectures for Multi-target Concrete Defect Classification with the COncrete DEfect BRidge IMage Dataset": [https://arxiv.org/abs/1904.08486](https://arxiv.org/abs/1904.08486)**
 
 Please cite the paper if you make use of the content (e.g. the dataset):
 
