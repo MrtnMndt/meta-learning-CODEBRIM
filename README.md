@@ -15,6 +15,4 @@ The dataset is available at: [https://doi.org/10.5281/zenodo.2620293](https://do
 Please note that the dataset is licensed for non-commercial and educational use only as specified by the license file attached with the dataset at above link. 
 
 ## Code for the paper
-We are currently working very hard to open-source the code for our paper. We expect to upload it very soon. Stay tuned!
-
-The open-source code will include: PyTorch and TensorFlow dataloaders, PyTorch code to train literature CNN baselines on our dataset, PyTorch code for MetaQNN and TensorFlow code for ENAS for our task.
+We have decided to move the code for our paper to our group's GitHub organization. It can be found at the following link: https://github.com/ccc-frankfurt/meta-learning-CODEBRIM
