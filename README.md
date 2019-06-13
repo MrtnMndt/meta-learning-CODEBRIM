@@ -15,6 +15,7 @@ The dataset is available at: [https://doi.org/10.5281/zenodo.2620293](https://do
 Please note that the dataset is licensed for non-commercial and educational use only as specified by the license file attached with the dataset at above link. 
 
 ## Code for the paper
+<<<<<<< HEAD
 The open-source code includes: PyTorch and TensorFlow dataloaders, PyTorch code for MetaQNN and TensorFlow code for ENAS for our task. The latter is forked from https://github.com/melodyguan/enas with additional changes that are pointed out in respective files.
 
 ## License
