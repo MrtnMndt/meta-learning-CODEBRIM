@@ -29,6 +29,6 @@ In summary, we allow usage for educational and research purposes, with the right
 This is an author's fork/copy and equivalent to the version in our group's repository: [https://github.com/ccc-frankfurt/meta-learning-CODEBRIM](https://github.com/ccc-frankfurt/meta-learning-CODEBRIM) 
 
 ## CVPR2019 poster
-We have added the poster presented at CVPR2019 in imgs directory. 
+We have added the full resolution poster (pdf) presented at CVPR2019 in the imgs directory. Here is a jpg snapshot:
 
-![](imgs/CVPR19_CODEBRIM_poster.pdf)
+![](imgs/CVPR19_CODEBRIM_poster.jpg)
