@@ -14,10 +14,21 @@ The dataset is available at: [https://doi.org/10.5281/zenodo.2620293](https://do
 
 Please note that the dataset is licensed for non-commercial and educational use only as specified by the license file attached with the dataset at above link. 
 
+Here is an example of what the dataset looks like (figure 1 from our paper):
+
+![](imgs/dataset_example.png)
+
 ## Code for the paper
 The open-source code includes: PyTorch and TensorFlow dataloaders, PyTorch code for MetaQNN and TensorFlow code for ENAS for our task. The latter is forked from https://github.com/melodyguan/enas with additional changes that are pointed out in respective files.
+
+You can find the respective code in the equally named directories with additional README files with installation and usage instructions.
 
 ## License
 In summary, we allow usage for educational and research purposes, with the rights reserved by FIAS and Goethe University. Please visit the license file for full terms and conditions. For the adapted ENAS code, further licensing applies according to the original authors. The respective license file is reproduced in the corresponding subdirectory and applies in addition to our license.
 
 This is an author's fork/copy and equivalent to the version in our group's repository: [https://github.com/ccc-frankfurt/meta-learning-CODEBRIM](https://github.com/ccc-frankfurt/meta-learning-CODEBRIM) 
+
+## CVPR2019 poster
+We have added the poster presented at CVPR2019 in imgs directory. 
+
+![](imgs/CVPR19_CODEBRIM_poster.pdf)
